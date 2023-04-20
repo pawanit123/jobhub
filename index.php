@@ -9,7 +9,7 @@ include('includes/config.php');
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style2.css">
+    <link rel="stylesheet" href="css/style1.css">
     <!-- fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&family=Nunito&display=swap" rel="stylesheet">
     <!-- icons -->
@@ -49,11 +49,6 @@ include('includes/config.php');
     <?php include('includes/header.php');?>
     <?php include('includes/navbar.php');?>
    
-
-
-
-
-    
 
     <!-- Now Header are start here   -->
     <header>
@@ -154,60 +149,7 @@ include('includes/config.php');
                         <span>Bussiness Development</span>
                     </div>
                 </div>
-                <!-- <div class="swiper-slide">
-                    <i class="fas fa-quote-left"></i>
-                    <h3>Our happy clients.</h3>
-                    <div class="testimoni-pic">
-                        <img src="images/profile3.jpg">
-                        <p>kamal Pathak</p>
-                        <span>website Development</span>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <i class="fas fa-quote-left"></i>
-                    <h3>hello how are you.</h3>
-                    <div class="testimoni-pic">
-                        <img src="images/profile3.jpg">
-                        <p>krishana Pathak</p>
-                        <span>Data Analyzer</span>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <i class="fas fa-quote-left"></i>
-                    <h3>our nepal country is most famous in the world.</h3>
-                    <div class="testimoni-pic">
-                        <img src="images/profile2.jpg">
-                        <p>krishana Pathak</p>
-                        <span>Data Analyzer</span>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <i class="fas fa-quote-left"></i>
-                    <h3>our nepal country is most famous in the world.</h3>
-                    <div class="testimoni-pic">
-                        <img src="images/profile2.jpg">
-                        <p>krishana Pathak</p>
-                        <span>Data Analyzer</span>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <i class="fas fa-quote-left"></i>
-                    <h3>Available employeer</h3>
-                    <div class="testimoni-pic">
-                        <img src="images/profile2.jpg">
-                        <p>krishana Pathak</p>
-                        <span>Data Analyzer</span>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <i class="fas fa-quote-left"></i>
-                    <h3>Available employeer.</h3>
-                    <div class="testimoni-pic">
-                        <img src="images/profile2.jpg">
-                        <p>krishana Pathak</p>
-                        <span>Data Analyzer</span>
-                    </div>
-                </div> -->
+            
             </div>
             <div class="swiper-page"></div>
         </div>
@@ -427,65 +369,7 @@ include('includes/config.php');
 
     </script>
 
-
-    <!-- footer -->
-    <!-- <footer class="footer">
-        <div class="footer-wrapper">
-            <h3>JOBHU<span>B</span>UTWAL</h3>
-            <p class="small text-justify">
-                Since inception in 2009, we have turned out to be number one jobs provider in Nepal with 300
-                thousand+ page views with 6o thousand + progressive visits every month, created 2,00,000+ success stories
-                and registered 7,50,000+ job seekers in our database. <a href="about" target="_blank" class="text-secondary">Read more...</a>
-            </p>
-            <div class="social-media">
-                <a href="#"><i class="fab fa-facebook"></i></a>
-                <a href="#"><i class="fab fa-twitter"></i></a>
-                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                <a href="#"><i class="fab fa-youtube"></i></a>
-            </div>
-        </div>
-        <div class="footer-wrapper">
-            <h4 class="exolore">EXPLORE</h4>
-            <a href="#">Top Companies</a>
-            <a href="#">Podcast</a>
-            <a href="#">Careers</a>
-            <a href="#">Terms of services</a>
-        </div>
-
-        <div class="footer-wrapper">
-            <h4 class="support">SUPPORT</h4>
-            <a href="#">Customer service</a>
-            <a href="#">Trust & Safety</a>
-            <a href="#">Partnership</a>
-        </div>
-        <div class="footer-wrapper">
-            <h4 class="community">COMMUNITY</h4>
-            <a href="#">Invite a Friend</a>
-            <a href="#">Event</a>
-        </div>
-        </div>
-        <div class="footer-wrapper">
-            <h4 class="about">ABOUT</h4>
-            <a href="#">FAQ</a>
-            <a href="#">Get Inspired</a>
-            <a href="#">Blog</a>
-        </div>
-
-        <div class="footer-wrapper">
-            <h4 class="contact as">CONTACT US</h4>
-            <i class="fa-solid fa-location-dot"></i> Butwal Rupandehi, Nepal
-
-            <a href="tel:+977-9812345678" class="text-white-50 mb-1 mt-1">+977 9866043966</a>
-
-            <a class="text-white-50" href="jobhubutwal.com">www.jobhubutwal.com</a>
-
-    </footer> -->
-
-
-
-
-    <!-- <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
-    <script src="https://code.jquery.code/jquery-2.2.4.min.js"></script> -->
+    
     <script src="app.js"></script>
    
 
